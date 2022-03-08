@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    @apply bg-custom-white shadow-lg rounded-md inline-flex;
+}
+
+.primary-btn{
+    @apply bg-custom-red rounded-lg inline-flex shadow text-custom-white hover:bg-red-400;
+}
+
+.disabled{
+    @apply bg-gray-300 rounded-xl inline-flex text-gray-400 cursor-default;
+}
+
+.option{
+    @apply text-left text-lg hover:bg-custom-blue ease-in duration-100 hover:text-custom-white my-2 p-2 rounded-md cursor-pointer shadow;
+}

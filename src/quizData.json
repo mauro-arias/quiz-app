@@ -1,0 +1,162 @@
+[
+    {
+        "category": "Programación",
+        "questions": [
+            {
+                "question": "¿Cuál de las siguientes opciones NO es un lenguaje de programación?",
+                "options": [
+                    "Python",
+                    "Ada",
+                    "Bear",
+                    "Ruby"
+                ],
+                "correct": 2
+            },
+            {
+                "question": "¿Cuál es el significado de 'HTML'?",
+                "options": [
+                    "Lenguaje de estructurado de etiquetas",
+                    "Lenguaje de marcado de hiper texto",
+                    "Programación orientada a objetos",
+                    "Hoja de estilos en cascada"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "¿Qué lenguaje de programación es el más indicado para desarrollo web por excelencia?",
+                "options": [
+                    "Python",
+                    "HTML",
+                    "C++",
+                    "Javascript"
+                ],
+                "correct": 3
+            },
+            {
+                "question": "¿Cuál de las siguientes opciones se considera un tipo de dato 'string'?",
+                "options": [
+                    "False",
+                    "3.14",
+                    "'True'",
+                    "['Texto']"
+                ],
+                "correct": 2
+            },
+            {
+                "question": "¿Cuál de las siguientes opciones NO es un paradigma de programación?",
+                "options": [
+                    "Programación Orientada a Objetos",
+                    "Programación Equitativa",
+                    "Programación Imperativa",
+                    "Programación Declarativa"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "category": "Deporte",
+        "questions": [
+            {
+                "question": "¿A qué altura se encuentra el aro de basketball?",
+                "options": [
+                    "3 mts",
+                    "2,9 mts",
+                    "3,05 mts",
+                    "3,10 mts"
+                ],
+                "correct": 2
+            },
+            {
+                "question": "¿Cuánto dura un partido de handball?",
+                "options": [
+                    "45 minutos",
+                    "60 minutos",
+                    "40 minutos",
+                    "50 minutos"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "¿Qué deporte se practica en la liga 'NFL'?",
+                "options": [
+                    "Basketball",
+                    "Rugby",
+                    "Beisbol",
+                    "Fútbol Americano"
+                ],
+                "correct": 3
+            },
+            {
+                "question": "¿Cada cuánto se organizan los Juegos Olímpicos?",
+                "options": [
+                    "4 años",
+                    "3 años",
+                    "5 años",
+                    "2 años"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "¿Qué pieza del ajedrez se mueve en forma de 'L'?",
+                "options": [
+                    "Alfil",
+                    "Caballo",
+                    "Peón",
+                    "Torre"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "¿Quien se considera popularmente como el mejor jugador de basketball del mundo?",
+                "options": [
+                    "LeBron James",
+                    "Michael Jordan",
+                    "Kobe Bryant",
+                    "Stephen Curry"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "¿Cuánto dura un partido de rugby?",
+                "options": [
+                    "80 minutos",
+                    "60 minutos",
+                    "40 minutos",
+                    "90 minutos"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "¿Cuántas veces ganó Michael Jordan campeonatos para el Chicago Bulls?",
+                "options": [
+                    "5",
+                    "7",
+                    "6",
+                    "4"
+                ],
+                "correct": 2
+            },
+            {
+                "question": "¿Cuánto dura una ronda de boxeo típica para hombres?",
+                "options": [
+                    "5 minutos",
+                    "3 minutos",
+                    "2 minutos",
+                    "4 minutos"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "¿Cuántas rondas hay en un solo juego de boxeo profesional?",
+                "options": [
+                    "5",
+                    "8",
+                    "12",
+                    "15"
+                ],
+                "correct": 2
+            }
+        ]
+    }
+]
